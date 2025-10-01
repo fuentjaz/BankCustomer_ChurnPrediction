@@ -1,5 +1,5 @@
 # Predicción de Deserción de Clientes Bancarios con Machine Learning:
-## Estrategias de Machine Learning para Mejorar la Retención de Clientes**
+## Estrategias de Machine Learning para Mejorar la Retención de Clientes
 
 **Contexto**
 
